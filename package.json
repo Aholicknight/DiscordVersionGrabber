@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "@azure/functions": "^4.0.0",
+    "axiom": "^0.1.6",
     "node-fetch": "^3.3.2"
   },
   "main": "src/{index.js,functions/*.js}"
